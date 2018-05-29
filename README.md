@@ -1,3 +1,3 @@
 # hello-world
 test 
-Just want an autosave prgrame for dark souls remastered.
+Just want an autosave program for dark souls remastered.
